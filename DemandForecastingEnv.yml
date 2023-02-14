@@ -1,4 +1,4 @@
-name: DemandForecastingGuide
+name: DemandForecastingModels
 channels:
   - conda-forge
   - http://conda.anaconda.org/gurobi
@@ -200,5 +200,5 @@ dependencies:
     - tqdm==4.60.0
     - webargs==7.0.1
     - yarl==1.6.3
-prefix: /Users/arthur.pentecoste/opt/anaconda3/envs/DemandForecastingGuide
+
 
